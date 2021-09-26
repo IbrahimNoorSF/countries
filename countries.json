@@ -6,7 +6,8 @@
         "gdp": "20.81 Trillion",
         "population": 333384277,
         "capital": "Washington, D.C.",
-        "currentPresident": "Joe Biden"
+        "currentPresident": "Joe Biden",
+        "appointmentFee": 45983
     },
     {
         "key": "cn",
@@ -15,7 +16,8 @@
         "gdp": "$14.86 Trillion",
         "population": 1439323776,
         "capital": "Beijing",
-        "currentPresident": "Xi Jinping"
+        "currentPresident": "Xi Jinping",
+        "appointmentFee": 42309
     },
     {
         "key": "jp",
@@ -24,7 +26,8 @@
         "gdp": "$4.91 Trillion",
         "population": 125999832,
         "capital": "Tokyo",
-        "currentPresident": "Shinzo Abe"
+        "currentPresident": "Shinzo Abe",
+        "appointmentFee": 43127
     },
     {
         "key": "de",
@@ -33,7 +36,8 @@
         "gdp": "$3.78 Trillion",
         "population": 84113506,
         "capital": "Berlin",
-        "currentPresident": "Frank-Walter Steinmeier"
+        "currentPresident": "Frank-Walter Steinmeier",
+        "appointmentFee": 97316
     },
     {
         "key": "uk",
@@ -42,7 +46,8 @@
         "gdp": "$2.64 Trillion",
         "population": 68324581,
         "capital": "London",
-        "currentPresident": "Boris Johnson"
+        "currentPresident": "Boris Johnson",
+        "appointmentFee": 83457
     },
     {
         "key": "in",
@@ -51,7 +56,8 @@
         "gdp": "$2.59 trillion",
         "population": 1396679683,
         "capital": "New Delhi",
-        "currentPresident": "Ram Nath Kovind"
+        "currentPresident": "Ram Nath Kovind",
+        "appointmentFee": 32194
     },
     {
         "key": "fr",
@@ -60,7 +66,8 @@
         "gdp": "$2.55 Trillion",
         "population": 65451212,
         "capital": "Paris",
-        "currentPresident": "Emmanuel Macron"
+        "currentPresident": "Emmanuel Macron",
+        "appointmentFee": 67195
     },
     {
         "key": "it",
@@ -69,7 +76,8 @@
         "gdp": "$1.85 Trillion",
         "population": 60352399,
         "capital": "Rome",
-        "currentPresident": "Sergio Mattarella"
+        "currentPresident": "Sergio Mattarella",
+        "appointmentFee": 93419
     },
     {
         "key": "ca",
@@ -78,7 +86,8 @@
         "gdp": "$1.60 trillion",
         "population": 60352399,
         "capital": "Ottawa",
-        "currentPresident": "Justin Trudeau"
+        "currentPresident": "Justin Trudeau",
+        "appointmentFee": 92815
     },
     {
         "key": "kr",
@@ -87,7 +96,8 @@
         "gdp": "$1.59 Trillion",
         "population": 51323238,
         "capital": "Seoul",
-        "currentPresident": "Moon Jae-in"
+        "currentPresident": "Moon Jae-in",
+        "appointmentFee": 72639
     },
     {
         "key": "ru",
@@ -96,7 +106,8 @@
         "gdp": "$1.46 Trillion",
         "population": 146011466,
         "capital": "Moscow",
-        "currentPresident": "Vladimir Putin"
+        "currentPresident": "Vladimir Putin",
+        "appointmentFee": 98654
     },
     {
         "key": "br",
@@ -105,7 +116,8 @@
         "gdp": "$1.36 Trillion",
         "population": 214417199,
         "capital": "Brasilia",
-        "currentPresident": "Jair Bolsonaro"
+        "currentPresident": "Jair Bolsonaro",
+        "appointmentFee": 75432
     },
     {
         "key": "au",
@@ -114,7 +126,8 @@
         "gdp": "$1.33 Trillion",
         "population": 25704340,
         "capital": "Canberra",
-        "currentPresident": "Scott Morrison"
+        "currentPresident": "Scott Morrison",
+        "appointmentFee": 93497
     },
     {
         "key": "es",
@@ -123,7 +136,8 @@
         "gdp": "$1.25 Trillion",
         "population": 46777014,
         "capital": "Madrid",
-        "currentPresident": "Felipe VI of Spain"
+        "currentPresident": "Felipe VI of Spain",
+        "appointmentFee": 59432
     },
     {
         "key": "id",
@@ -132,6 +146,7 @@
         "gdp": "$1.09 Trillion",
         "population": 277078037,
         "capital": "Jakarta",
-        "currentPresident": "Joko Widodo"
+        "currentPresident": "Joko Widodo",
+        "appointmentFee": 60293
     }
 ]
