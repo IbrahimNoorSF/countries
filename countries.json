@@ -6,7 +6,7 @@
         "gdp": "20.81 Trillion",
         "population": 333384277,
         "capital": "Washington, D.C.",
-        "current president": "Joe Biden"
+        "currentPresident": "Joe Biden"
     },
     {
         "key": "cn",
@@ -15,7 +15,7 @@
         "gdp": "$14.86 Trillion",
         "population": 1439323776,
         "capital": "Beijing",
-        "current president": "Xi Jinping"
+        "currentPresident": "Xi Jinping"
     },
     {
         "key": "jp",
@@ -24,7 +24,7 @@
         "gdp": "$4.91 Trillion",
         "population": 125999832,
         "capital": "Tokyo",
-        "current president": "Shinzo Abe"
+        "currentPresident": "Shinzo Abe"
     },
     {
         "key": "de",
@@ -33,7 +33,7 @@
         "gdp": "$3.78 Trillion",
         "population": 84113506,
         "capital": "Berlin",
-        "current president": "Frank-Walter Steinmeier"
+        "currentPresident": "Frank-Walter Steinmeier"
     },
     {
         "key": "uk",
@@ -42,7 +42,7 @@
         "gdp": "$2.64 Trillion",
         "population": 68324581,
         "capital": "London",
-        "current prime minister": "Boris Johnson"
+        "currentPrimeMinister": "Boris Johnson"
     },
     {
         "key": "in",
@@ -51,7 +51,7 @@
         "gdp": "$2.59 trillion",
         "population": 1396679683,
         "capital": "New Delhi",
-        "current president": "Ram Nath Kovind"
+        "currentPresident": "Ram Nath Kovind"
     },
     {
         "key": "fr",
@@ -60,7 +60,7 @@
         "gdp": "$2.55 Trillion",
         "population": 65451212,
         "capital": "Paris",
-        "current president": "Emmanuel Macron"
+        "currentPresident": "Emmanuel Macron"
     },
     {
         "key": "it",
@@ -69,7 +69,7 @@
         "gdp": "$1.85 Trillion",
         "population": 60352399,
         "capital": "Rome",
-        "current president": "Sergio Mattarella"
+        "currentPresident": "Sergio Mattarella"
     },
     {
         "key": "ca",
@@ -78,7 +78,7 @@
         "gdp": "$1.60 trillion",
         "population": 60352399,
         "capital": "Ottawa",
-        "current prime minister": "Justin Trudeau"
+        "currentPrimeMinister": "Justin Trudeau"
     },
     {
         "key": "kr",
@@ -87,7 +87,7 @@
         "gdp": "$1.59 Trillion",
         "population": 51323238,
         "capital": "Seoul",
-        "current president": "Moon Jae-in"
+        "currentPresident": "Moon Jae-in"
     },
     {
         "key": "ru",
@@ -96,7 +96,7 @@
         "gdp": "$1.46 Trillion",
         "population": 146011466,
         "capital": "Moscow",
-        "current president": "Vladimir Putin"
+        "currentPresident": "Vladimir Putin"
     },
     {
         "key": "br",
@@ -105,7 +105,7 @@
         "gdp": "$1.36 Trillion",
         "population": 214417199,
         "capital": "Brasilia",
-        "current president": "Jair Bolsonaro"
+        "currentPresident": "Jair Bolsonaro"
     },
     {
         "key": "au",
@@ -114,7 +114,7 @@
         "gdp": "$1.33 Trillion",
         "population": 25704340,
         "capital": "Canberra",
-        "current president": "Scott Morrison"
+        "currentPresident": "Scott Morrison"
     },
     {
         "key": "es",
@@ -123,7 +123,7 @@
         "gdp": "$1.25 Trillion",
         "population": 46777014,
         "capital": "Madrid",
-        "current king": "Felipe VI of Spain"
+        "currentKing": "Felipe VI of Spain"
     },
     {
         "key": "id",
@@ -132,6 +132,6 @@
         "gdp": "$1.09 Trillion",
         "population": 277078037,
         "capital": "Jakarta",
-        "current president": "Joko Widodo"
+        "currentPresident": "Joko Widodo"
     }
 ]
