@@ -42,7 +42,7 @@
         "gdp": "$2.64 Trillion",
         "population": 68324581,
         "capital": "London",
-        "currentPrimeMinister": "Boris Johnson"
+        "currentPresident": "Boris Johnson"
     },
     {
         "key": "in",
@@ -78,7 +78,7 @@
         "gdp": "$1.60 trillion",
         "population": 60352399,
         "capital": "Ottawa",
-        "currentPrimeMinister": "Justin Trudeau"
+        "currentPresident": "Justin Trudeau"
     },
     {
         "key": "kr",
@@ -123,7 +123,7 @@
         "gdp": "$1.25 Trillion",
         "population": 46777014,
         "capital": "Madrid",
-        "currentKing": "Felipe VI of Spain"
+        "currentPresident": "Felipe VI of Spain"
     },
     {
         "key": "id",
